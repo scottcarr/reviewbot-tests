@@ -6,9 +6,9 @@
   <GitRoot>C:\Users\carr27\Documents\GitHub\reviewbot-tests</GitRoot>
   <GitBaseBranch>master</GitBaseBranch>
   <Cccheck>C:\Program Files (x86)\Microsoft\Contracts\Bin\cccheck.exe</Cccheck>
-  <CccheckXml>C:\Users\carr27\Documents\GitHub\reviewbot-tests\tmp\ConsoleApplication1.xml</CccheckXml>
+  <CccheckXml>C:\Users\carr27\Documents\GitHub\reviewbot-tests\tmp\InterfaceCheck.xml</CccheckXml>
   <CccheckOptions> -xml -remote=false -suggest objectinvariants -suggest necessaryensures  -suggest readonlyfields -suggest assumes -suggest nonnullreturn -sortWarns=false -warninglevel full </CccheckOptions>
   <MSBuild>C:\Program Files (x86)\MSBuild\12.0\Bin\amd64\MSBuild.exe</MSBuild>
-  <RSP>C:\Users\carr27\Documents\GitHub\reviewbot-tests\ConsoleApplication1\ConsoleApplication1\obj\Debug\Decl\ConsoleApplication1cccheck.rsp</RSP>
+  <RSP>C:\Users\carr27\Documents\GitHub\reviewbot-tests\ConsoleApplication1\InterfaceTest\obj\Debug\Decl\InterfaceTestcccheck.rsp</RSP>
   <CodeFlowProject>ReviewBotTesting</CodeFlowProject>
 </Configuration>
